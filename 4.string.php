@@ -25,7 +25,7 @@
 
       echo strrev($learn); // ultho kore sure kore line
   
-      echo  " <hr>";
+      echo  "<hr>";
       
       echo strpos($learn, "learn"); // eta holo possition check kore. er 2ta arhumnet ache. 1st "haystack" $ "needle"
 
