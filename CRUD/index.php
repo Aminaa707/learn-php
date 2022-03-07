@@ -15,7 +15,7 @@
         <h2 class="text-center my-5">Learn PHP</h2>
 
         <div class="container">
-
+<a href="Read.php" class="btn btn-info p-4">All Contact</a>
         <form action="insert.php" method="post" class="col-sm-6 offset-md-3">
 
         <div class="mb-3">

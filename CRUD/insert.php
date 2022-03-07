@@ -13,7 +13,7 @@ $sql= "INSERT INTO information (first_name, last_name, email)
 $result=mysqli_query($connection,$sql) or die(mysqli_error($connection));
 
 if($result == True){
-    header("location: message.php");
+    header("location: Read.php");
 }else{
     echo 'Data not inserted';
 }
